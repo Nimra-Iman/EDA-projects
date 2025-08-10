@@ -5,7 +5,7 @@ Each project focuses on cleaning, analyzing, and visualizing datasets to extract
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### 1. Diwali Sales Analysis
 - **Description:** Analyzes Diwali sales data to understand customer purchasing behavior.
@@ -29,7 +29,7 @@ Each project focuses on cleaning, analyzing, and visualizing datasets to extract
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 - **Databases:** MySQL
 - **Visualization:** Power BI, Matplotlib, Seaborn
@@ -37,7 +37,7 @@ Each project focuses on cleaning, analyzing, and visualizing datasets to extract
 
 ---
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 - Data Cleaning & Wrangling
 - Exploratory Data Analysis
 - Data Visualization
@@ -46,7 +46,7 @@ Each project focuses on cleaning, analyzing, and visualizing datasets to extract
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
